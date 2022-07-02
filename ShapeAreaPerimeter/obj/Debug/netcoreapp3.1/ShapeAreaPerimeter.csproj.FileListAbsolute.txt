@@ -1,0 +1,14 @@
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaPerimeter.exe
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaPerimeter.deps.json
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaPerimeter.runtimeconfig.json
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaPerimeter.runtimeconfig.dev.json
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaPerimeter.dll
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaPerimeter.pdb
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.csproj.AssemblyReference.cache
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.AssemblyInfoInputs.cache
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.AssemblyInfo.cs
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.csproj.CoreCompileInputs.cache
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.dll
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.pdb
+E:\My files\Programming\C#\CSharpAssignment3\ShapeAreaPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaPerimeter.genruntimeconfig.cache
