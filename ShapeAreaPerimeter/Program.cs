@@ -6,7 +6,7 @@ namespace ShapeAreaPerimeter
     {
         static void Main(string[] args)
         {
-            Circle circle = new Circle();
+            Circle circle = new Circle(10);
             Console.WriteLine("The area of the circle is "+circle.area());
             Console.WriteLine("The circumference of the circle is " + circle.perimeter());
 
@@ -23,8 +23,8 @@ namespace ShapeAreaPerimeter
     
     public class Circle : IShape //Circle class
     {
-        public double radius=12;
-        const double PI = 3.14;
+        public double radius;
+        static double PI = 3.14;
         public Circle(double radius)
         {
             this.radius = radius;
@@ -43,8 +43,8 @@ namespace ShapeAreaPerimeter
     }
     public class Rectangle :IShape //Rectangle class
     {
-        public double length=5;
-        public double width=6;
+        public double length;
+        public double width;
         public Rectangle(double length, double width)
         {
             this.length = length;
